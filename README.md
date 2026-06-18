@@ -3,7 +3,7 @@
 Proyecto del curso **Fundamentos de .NET** 
 
 ## Requisitos
-- .Net 10 SDK
+- .Net 8.0 SDK
 
 ## Como ejecutar
 ```
